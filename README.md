@@ -4,7 +4,7 @@
 
 ## 🌍 Project Overview
 
-The Energy Data Collector is a sophisticated Python script designed to aggregate and analyze energy consumption, carbon emissions, and electricity pricing data. This tool provides comprehensive insights into manufacturing energy usage, helping organizations and researchers understand their environmental and economic energy footprint.
+The Energy Data Collector is a Python script designed to aggregate and analyze energy consumption, carbon emissions, and electricity pricing data. This tool provides comprehensive insights into manufacturing energy usage, helping organizations and researchers understand their environmental and economic energy footprint.
 
 ## ✨ Key Features
 
